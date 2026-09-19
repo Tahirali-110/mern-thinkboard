@@ -4,7 +4,7 @@ import toast from "react-hot-toast";
 
 import Navbar from "../components/Navbar";
 import NoteCard from "../components/NoteCard";
-import RateLimitedUI from "../components/RAteLimitedUi";
+import RateLimitedUI from "../components/RateLimitedUI";
 import api from "../lib/axios";
 import NotesNotFound from "../components/NotesNotFound";
 
